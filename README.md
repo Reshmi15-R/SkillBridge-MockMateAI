@@ -3,8 +3,8 @@
 A full-stack web application built by two best friends to help students prepare for interviews, improve technical skills, and track their career growth journey.
 
 ## 👩‍💻 Developers
-- Reshmi R
-- [Your Best Friend's Name]
+- [Reshmi R](https://github.com/Reshmi15-R)
+- [Mohammed Riyaz A](https://github.com/Riyaz2815-Mohammed)
 
 ---
 
