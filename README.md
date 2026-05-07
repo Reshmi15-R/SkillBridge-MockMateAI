@@ -94,3 +94,5 @@ career-copilot/
 ├── database/
 ├── docs/
 └── README.md
+```
+---
