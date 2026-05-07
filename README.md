@@ -30,7 +30,6 @@ This project is being built as a learning journey to understand:
 - Full Stack Architecture
 
 
-
 #  Goals of This Project
 
 We started this project to:
