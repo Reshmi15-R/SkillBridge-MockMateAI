@@ -1,14 +1,14 @@
-# Career Copilot 🚀
+# Career Copilot 
 
 A full-stack web application built by two best friends to help students prepare for interviews, improve technical skills, and track their career growth journey.
 
-## 👩‍💻 Developers
+##  Developers
 - [Reshmi R](https://github.com/Reshmi15-R)
 - [Mohammed Riyaz A](https://github.com/Riyaz2815-Mohammed)
 
----
 
-# 📌 Project Overview
+
+# Project Overview
 
 Career Copilot is an interview preparation and career guidance platform that helps users:
 
@@ -29,9 +29,9 @@ This project is being built as a learning journey to understand:
 - AI Integration
 - Full Stack Architecture
 
----
 
-# 🎯 Goals of This Project
+
+#  Goals of This Project
 
 We started this project to:
 
@@ -43,9 +43,9 @@ We started this project to:
 - Improve teamwork and project collaboration
 - Create a placement-ready portfolio project
 
----
 
-# 🛠️ Tech Stack
+
+#  Tech Stack
 
 ## Frontend
 - React
@@ -70,9 +70,8 @@ We started this project to:
 - Interview Feedback System
 - Career Recommendation System
 
----
 
-# ✨ Features
+#  Features
 
 - User Authentication
 - Resume Upload
@@ -82,9 +81,9 @@ We started this project to:
 - Career Guidance Suggestions
 - Interview History Tracking
 
----
 
-# 📂 Project Structure
+
+#  Project Structure
 
 ```bash
 career-copilot/
@@ -94,3 +93,4 @@ career-copilot/
 ├── database/
 ├── docs/
 └── README.md
+
