@@ -9,5 +9,4 @@ class SignupRequest(BaseModel):
 
 class SignupResponse(BaseModel):
     name:str
-    # msg:str
     model_config=ConfigDict(from_attributes=True)
